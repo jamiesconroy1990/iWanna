@@ -1,0 +1,16 @@
+iOS Application developed by Jamie Conroy
+This iOS Application is based on the "CheckList" tutorial in the Apprentice Series by Ray Wenderlich. 
+The icons that I have used for this app in the catergories section are from the same tutorial as above.
+
+A simple To Do list that has the following
+
+Demonstrate CRUD functionality for items within each list
+This App uses Storyboards to navigate between screens
+Use TableViews to display information 
+List are displayed in ascending alphabetical order 
+Persistence in the form of plist
+Local notifications
+Preloads application with sample lists
+Icons for different lists
+Custom icon and launchimage
+Tic beside a completed task
